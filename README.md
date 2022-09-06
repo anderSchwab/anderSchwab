@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working as a Public Server
 - 🌱 I’m currently learning HTML and CSS
+- 🚧 Under construction...
 
 <div>
   <a href="https://github.com/anderSchwab">
