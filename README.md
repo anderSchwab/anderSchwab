@@ -12,4 +12,4 @@
 
 ##
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderSchwab&show_icons=true&theme=radical)](https://github.com/anderSchwab/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anderSchwab&show_icons=true&theme=dark)](https://github.com/anderSchwab/github-readme-stats)
