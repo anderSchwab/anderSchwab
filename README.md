@@ -9,7 +9,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anderSchwab&show_icons=true&theme=dark" />
   </a>
   <a href="https://github.com/anderSchwab/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anderSchwab&layout=compact&theme=dark&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anderSchwab&layout=compact&theme=dark&card_width=300" />
   </a>
 
 ##
