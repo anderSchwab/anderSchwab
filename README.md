@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Anderson Schwab 
 
 - 🔭 I’m currently working as a Public Server
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning Python, HTML and CSS
 - 🚧 Under construction...
 
 <div>
