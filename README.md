@@ -1,4 +1,4 @@
-## Olá, Eu sou o Anderson Schwab 
+## Olá, Meu nome é Anderson Luis Schwab 
 
 - 🔭 I’m currently working as a Public Server
 - 🌱 I’m currently learning Python, HTML and CSS
